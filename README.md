@@ -20,5 +20,6 @@ Option 1: Copy and pasting the script
 Option 2: Save the script and call using the powershell  
 
 > Note: If the execution policy is enabled, then you can use the command `powershell -ExecutionPolicy Bypass -File .\screenAwake.ps1` orelse you can directly call the script ` .\screenAwake.ps1`
-<img width="548" alt="image" src="https://user-images.githubusercontent.com/59549298/170697242-99fe07aa-6be5-4706-9ec1-3e5d031310a1.png">
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/59549298/170698055-29539bbf-e40f-426f-8a3d-76ec42a73262.png">
+
 
